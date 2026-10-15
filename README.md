@@ -33,7 +33,7 @@ J'aime comprendre un système de bout en bout : le code, la base de données, l'
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,nodejs,express,mysql&perline=10" alt="Langages et web" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,docker,vmware,git,github,vscode,latex&perline=10" alt="Systèmes et outils" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,docker,git,github,vscode,latex&perline=10" alt="Systèmes et outils" />
 </p>
 
 <details>
@@ -91,6 +91,6 @@ J'aime comprendre un système de bout en bout : le code, la base de données, l'
 
 <div align="center">
 
-🇫🇷 Français (langue maternelle) · 🇬🇧 Anglais (C1) · Arabe (intermédiaire)
+🌍 Français (langue maternelle) · Anglais (C1) · Arabe (intermédiaire)
 
 </div>
